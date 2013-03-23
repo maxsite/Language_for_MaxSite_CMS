@@ -7,7 +7,7 @@
 Установка языка
 ---------------
 
-Скопируйте языковые файлы в «application/maxsite/language». 
+Скопируйте языковые файлы в «application/maxsite/common/language». 
 
 Язык указывается в «application/maxsite/mso_config.php». 
 
